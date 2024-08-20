@@ -16,6 +16,7 @@ Khóa học sẽ bao gồm các nhóm nội dung cơ bản sau:
 ## Nội dung
 
 - Khởi tạo một dự án ASP.NET MVC và tìm hiểu các thành phần.
+- Các Attribute trong ASP.NET.
 - Sử dụng đối tượng HttpContext.
 - Routing.
 - Static files.
@@ -40,8 +41,7 @@ Khóa học sẽ bao gồm các nhóm nội dung cơ bản sau:
 - Web API: Minimal API.
 - Web API: Swagger/Open API.
 - ASP.NET Identity.
-- Authorization trong ASP.NET.
-- Role based/Claim based và Policy based authorization.
+- Authorization trong ASP.NET
 - Publish lên IIS.
 - Tạo một Docker image
 - Sử dụng NGINX làm reversed proxy.
