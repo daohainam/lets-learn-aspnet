@@ -16,6 +16,7 @@ Khóa học sẽ bao gồm các nhóm nội dung cơ bản sau:
 ## Nội dung
 
 - Khởi tạo một dự án ASP.NET MVC và tìm hiểu các thành phần.
+- Tìm hiểu Controller và Action method.
 - Các Attribute trong ASP.NET.
 - Sử dụng đối tượng HttpContext.
 - Routing.
