@@ -18,9 +18,9 @@ Khóa học sẽ bao gồm các nhóm nội dung cơ bản sau:
 - Khởi tạo một dự án ASP.NET MVC và tìm hiểu các thành phần.
 - Tìm hiểu Controller và Action method.
 - Các Attribute trong ASP.NET.
-- Sử dụng đối tượng HttpContext.
 - Routing.
 - Bài tập: Viết chương trình To Do List.
+- Sử dụng đối tượng HttpContext.
 - Static files.
 - Gửi dữ liệu lên server với POST (và model binding).
 - Session.
