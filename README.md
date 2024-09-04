@@ -20,6 +20,7 @@ Khóa học sẽ bao gồm các nhóm nội dung cơ bản sau:
 - Các Attribute trong ASP.NET.
 - Sử dụng đối tượng HttpContext.
 - Routing.
+- Bài tập: Viết chương trình To Do List.
 - Static files.
 - Gửi dữ liệu lên server với POST (và model binding).
 - Session.
