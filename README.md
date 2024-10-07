@@ -45,7 +45,6 @@ Khóa học sẽ bao gồm các nhóm nội dung cơ bản sau:
 - ASP.NET Identity.
 - Authorization trong ASP.NET
 - Integration testing với ASP.NET
-- Publish lên IIS.
 - Tạo một Docker image
 - Sử dụng NGINX làm reversed proxy.
 - Phòng tránh các lỗi bảo mật web: Open redirect, Cross-Site Request Forgery và Cross-Site Scripting.
