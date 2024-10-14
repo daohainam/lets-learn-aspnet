@@ -8,7 +8,7 @@ namespace MySession.MySession
 
         public bool IsAvailable { 
             get {
-                LoadAsync(CancellationToken.None).Wait();
+                Load();
 
                 return true;
             } 
@@ -32,6 +32,17 @@ namespace MySession.MySession
         {
             _store.Clear();
             var loadedStore = await engine.LoadAsync(Id, cancellationToken);
+
+            foreach (var pair in loadedStore)
+            {
+                _store[pair.Key] = pair.Value;
+            }
+        }
+
+        public void Load()
+        {
+            _store.Clear();
+            var loadedStore = engine.Load(Id);
 
             foreach (var pair in loadedStore)
             {
