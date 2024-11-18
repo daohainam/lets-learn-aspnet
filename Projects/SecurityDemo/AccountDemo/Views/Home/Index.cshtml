@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">ASP.NET Account demo</h1>
+    <hr />
+    <p>ASP.NET Account demo is a simple web application that demonstrates how to create a user account and log in to the application.</p>
+    <p>Click the Register link to create a new user account.</p>
+    <p>Click the Log On link to log in to the application.</p>
+    <p>Click the Log Off link to log out of the application.</p>
+    <hr />
+    <p>Current user: @(User.Identity?.Name ?? "")</p>
+</div>
