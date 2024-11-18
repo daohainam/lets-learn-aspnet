@@ -2,5 +2,7 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs
-/Projects/SecurityDemo/.vs
+.vs
+obj
+bin
+/Projects/MySession/MySession/sessions/07f22e40f1fb425389542fbf917d16d4
