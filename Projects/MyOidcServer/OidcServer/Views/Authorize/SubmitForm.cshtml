@@ -1,0 +1,15 @@
+﻿@model CodeFlowResponseViewModel
+@{
+    Layout = null;
+}
+
+<html>
+<head>
+</head>
+<body onload="javascript:document.forms[0].submit()">
+    <form method="post" action="@Model.RedirectUri" enctype="application/x-www-form-urlencoded">
+        <input type='hidden' name='state' value='@Model.State' />
+        <input type='hidden' name='code' value='@Model.Code' />
+    </form>
+</body>
+</html>

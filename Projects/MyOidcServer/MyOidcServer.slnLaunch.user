@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "OidcWebClient\\OidcWebClient.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "OidcServer\\OidcServer.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

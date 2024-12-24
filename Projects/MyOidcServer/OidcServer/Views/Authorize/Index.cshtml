@@ -1,0 +1,51 @@
+﻿@model AuthenticationRequestModel
+@{
+    int i;
+}
+<div class="container text-center">
+    <h1 class="display-4">Choose one of the following accounts to continue authorizing</h1>
+    <div class="row">
+        <div class="col">
+            <div class="card mt-4">
+                <div class="card-body">
+                    <h5 class="card-title">User1</h5>
+                    <form action="authorize/authorize" method="post">
+                        <label>Scopes</label>
+                        @{
+                            i = 1;
+                        }
+                        @foreach (var scope in Model.Scope.Split(' ', StringSplitOptions.RemoveEmptyEntries | StringSplitOptions.TrimEntries))
+                        {
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="@scope" id="user1-scope-@i" name="scopes" checked>
+                                <label class="form-check-label" for="user1-scope-@i">
+                                    @scope
+                                </label>
+                            </div>
+
+                            i++;
+                        }
+
+                        <input type="hidden" name="client_id" value="@Model.ClientId" />
+                        <input type="hidden" name="redirect_uri" value="@Model.RedirectUri" />
+                        <input type="hidden" name="response_type" value="@Model.ResponseType" />
+                        <input type="hidden" name="scope" value="@Model.Scope" />
+                        <input type="hidden" name="code_challenge" value="@Model.CodeChallenge" />
+                        <input type="hidden" name="code_challenge_method" value="@Model.CodeChallengeMethod" />
+                        <input type="hidden" name="response_mode" value="@Model.ResponseMode" />
+                        <input type="hidden" name="nonce" value="@Model.Nonce" />
+                        <input type="hidden" name="state" value="@Model.State" />
+                        <input type="text" name="user" value="" class="form-control" />
+
+                        <input type="submit" class="btn btn-primary" value="Authorize" />
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="mt-4">
+                <a href="#" class="btn btn-outline-primary">Cancel authorizing</a>
+            </div>
+        </div>
+    </div>
+</div>
