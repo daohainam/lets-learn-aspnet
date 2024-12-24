@@ -30,8 +30,8 @@ Khóa học sẽ bao gồm các nhóm nội dung cơ bản sau:
 - Middleware: exception handler.
 - Middleware: HSTS.
 - Middleware: Https redirection.
-- Middleware: CORS.
 - Middleware: Authentication và Authorization.
+- Middleware: CORS.
 - Middleware: Rate Limit.
 - Middleware: Response Caching.
 - Middleware: Tự viết một custom middleware.
@@ -43,7 +43,6 @@ Khóa học sẽ bao gồm các nhóm nội dung cơ bản sau:
 - Web API: Minimal API.
 - Web API: Swagger/Open API.
 - ASP.NET Identity.
-- Authorization trong ASP.NET
 - Integration testing với ASP.NET
 - Tạo một Docker image
 - Sử dụng NGINX làm reversed proxy.
