@@ -34,7 +34,6 @@ Khóa học sẽ bao gồm các nhóm nội dung cơ bản sau:
 - Middleware: CORS.
 - Middleware: Rate Limit.
 - Middleware: Response Caching.
-- Middleware: Tự viết một custom middleware.
 - Caching trong ASP.NET.
 - Web API: Khởi tạo một dự án Web API.
 - Web API: Các Attribute thường dùng trong Web API.
