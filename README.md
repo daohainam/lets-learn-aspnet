@@ -27,8 +27,6 @@ Khóa học sẽ bao gồm các nhóm nội dung cơ bản sau:
 - Configuration trong ASP.NET.
 - Options pattern.
 - Giới thiệu về middleware.
-- Middleware: exception handler.
-- Middleware: HSTS.
 - Middleware: Https redirection.
 - Middleware: Authentication và Authorization.
 - Middleware: CORS.
