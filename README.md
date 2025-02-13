@@ -39,7 +39,6 @@ Khóa học sẽ bao gồm các nhóm nội dung cơ bản sau:
 - Web API: Các quy ước được dùng khi viết API.
 - Web API: Minimal API.
 - Web API: Swagger/Open API.
-- ASP.NET Identity.
 - Integration testing với ASP.NET
 - Tạo một Docker image
 - Sử dụng NGINX làm reversed proxy.
