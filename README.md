@@ -1,5 +1,7 @@
 # Khóa học ASP.NET, Web API
 
+Nội dung các video của khóa học có thể xem tại đây: https://www.youtube.com/playlist?list=PLRLJQuuRRcFnwlQxGeVSVv-z_5tFwAh0j
+
 ## Mục tiêu
 - Hiểu rõ cách vận hành của một phần mềm ASP.NET.
 - Biết cách đọc tài liệu và tự học các công nghệ khác trên .NET.
