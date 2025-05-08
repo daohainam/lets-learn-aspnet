@@ -1,4 +1,5 @@
 # Khóa học ASP.NET, Web API
+(đã hoàn thành)
 
 Nội dung các video của khóa học có thể xem tại đây: https://www.youtube.com/playlist?list=PLRLJQuuRRcFnwlQxGeVSVv-z_5tFwAh0j
 
@@ -44,6 +45,4 @@ Khóa học sẽ bao gồm các nhóm nội dung cơ bản sau:
 - Integration testing với ASP.NET
 - Tạo một Docker image
 - Sử dụng NGINX làm reversed proxy.
-- Phòng tránh các lỗi bảo mật web: Open redirect, Cross-Site Request Forgery và Cross-Site Scripting.
-- Các kỹ thuật tăng tốc trang web và các chỉ số đánh giá tốc độ của Chrome.
   
