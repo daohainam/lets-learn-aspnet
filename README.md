@@ -32,7 +32,7 @@ Khóa học sẽ bao gồm các nhóm nội dung cơ bản sau:
 - ASP.NET - Part 12 - Introduction to Middleware
 - ASP.NET - Phần 13 - Thực hành viết một middleware
 - ASP.NET - Phần 14 - Model binding
-- ASP.NET - Part 15 - Session
+- ASP.NET - Phần 15 - Session
 - ASP.NET - Phần 16 - Https Redirection
 - ASP.NET - Phần 17 - Giới thiệu các khái niệm trong ...
 - ASP.NET - Phần 18 - Chương trình đầu tiên với authentication và authorization
