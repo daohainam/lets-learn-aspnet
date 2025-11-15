@@ -21,15 +21,15 @@ Khóa học sẽ bao gồm các nhóm nội dung cơ bản sau:
 - ASP.NET - Phần 1 - Giới thiệu về ASP.NET và viết chương trình đầu tiên
 - ASP.NET - Phần 2 - Controller và action method
 - ASP.NET - Phần 3 - Các Attribute thường dùng
-- ASP.NET - Part 4 - Routing
+- ASP.NET - Phần 4 - Routing
 - ASP.NET - Phần 5 - Bài tập: Viết chương trình To Do List
-- ASP.NET - Part 6 - HttpContext
+- ASP.NET - Phần 6 - HttpContext
 - ASP.NET - Phần 7 - Làm việc với HttpRequest
 - ASP.NET - Phần 8 - Làm việc với HttpResponse
 - ASP.NET - Phần 9 - Bài tập: clone lại tính năng Session của 
 - ASP.NET - Phần 10 - Bài tập: Nâng cấp ứng dụng MySession và thêm integration test
 - ASP.NET - Phần 11 - Configuration và Options pattern
-- ASP.NET - Part 12 - Introduction to Middleware
+- ASP.NET - Phần 12 - Introduction to Middleware
 - ASP.NET - Phần 13 - Thực hành viết một middleware
 - ASP.NET - Phần 14 - Model binding
 - ASP.NET - Phần 15 - Session
@@ -55,7 +55,7 @@ Khóa học sẽ bao gồm các nhóm nội dung cơ bản sau:
 - ASP.NET - Phần 35 - Làm quen với Minimal API
 - ASP.NET - Phần 36 - Parameter binding trong Minimal API
 - ASP.NET - Phần 37 - Bài tập viết Core Banking API (1) - Xây dựng cấu trúc dự án với .NET Aspire
-- ASP.NET - Part 38 - Core Banking API Writing Exercises (2)
+- ASP.NET - Phần 38 - Core Banking API Writing Exercises (2)
 - ASP.NET - Phần 39 - Core Banking API (3) - Định nghĩa các model Entity Framework
 - ASP.NET - Phần 40 - Core Banking API (4) - Viết migration service để khởi tạo cơ sở dữ liệu
 - ASP.NET - Phần 41 - Core Banking API (5) - Viết hàm API cho customer
@@ -63,5 +63,5 @@ Khóa học sẽ bao gồm các nhóm nội dung cơ bản sau:
 - ASP.NET - Phần 43 - Core Banking API (7) - Unit Tests
 - ASP.NET - Phần 44 - Core Banking API (8) - Integration Tests
 - ASP.NET - Phần 45 - Giới thiệu các khái niệm về ảo hóa, container và Docker
-- ASP.NET - Part 46 - Deploy with Docker Compose
+- ASP.NET - Phần 46 - Deploy with Docker Compose
   
